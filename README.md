@@ -1,5 +1,4 @@
 # SinglyLinkedList
-
 Software Engineering SinglyLinkedList Project.
 
 Used Stack and Queue data structure using Singly Linked List.
